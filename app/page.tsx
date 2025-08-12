@@ -46,7 +46,7 @@ export default function Portfolio() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="mb-8">
             <img
-              src="/mypicture.jpg"
+              src="/mypicture.png"
               alt="Gilbert - Software Engineer"
               className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-white shadow-lg"
             />
