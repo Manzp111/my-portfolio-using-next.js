@@ -131,12 +131,11 @@ export default function Portfolio() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-2">
-                  <Badge className="mr-2 mb-2">Django</Badge>
-                  <Badge className="mr-2 mb-2">Django REST Framework</Badge>
-                  <Badge className="mr-2 mb-2">Node.js</Badge>
-                  <Badge className="mr-2 mb-2">Express.js</Badge>
                   <Badge className="mr-2 mb-2">Python</Badge>
                   <Badge className="mr-2 mb-2">JavaScript</Badge>
+                  <Badge className="mr-2 mb-2">Django</Badge>          
+                  <Badge className="mr-2 mb-2">Node.js</Badge>
+                  <Badge className="mr-2 mb-2">React</Badge>
                 </div>
               </CardContent>
             </Card>
@@ -171,10 +170,7 @@ export default function Portfolio() {
                 <div className="space-y-2">
                   <Badge className="mr-2 mb-2">React</Badge>
                   <Badge className="mr-2 mb-2">Next.js</Badge>
-                  <Badge className="mr-2 mb-2">TypeScript</Badge>
-                  <Badge className="mr-2 mb-2">Tailwind CSS</Badge>
-                  <Badge className="mr-2 mb-2">CI/CD</Badge>
-                  <Badge className="mr-2 mb-2">Linux</Badge>
+
                 </div>
               </CardContent>
             </Card>
@@ -299,15 +295,15 @@ export default function Portfolio() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
               <Mail className="w-4 h-4 mr-2" />
-              gilbert@example.com
+              gilbertnshimyimana11@gmail.com
             </Button>
             <Button variant="outline" size="lg">
               <Linkedin className="w-4 h-4 mr-2" />
-              LinkedIn Profile
+             https://www.linkedin.com/in/gilbert-nshimyimana-132b68376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
             </Button>
             <Button variant="outline" size="lg">
               <Github className="w-4 h-4 mr-2" />
-              GitHub Profile
+             https://github.com/Manzp111
             </Button>
           </div>
         </div>
