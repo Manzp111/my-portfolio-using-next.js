@@ -2,8 +2,7 @@
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/manzp111s-projects/v0-gilbert-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/vsOI270JyyP)
+https://ai-web-iota-teal.vercel.app/
 
 ## Overview
 
@@ -14,13 +13,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/manzp111s-projects/v0-gilbert-portfolio-website](https://vercel.com/manzp111s-projects/v0-gilbert-portfolio-website)**
+**https://ai-web-iota-teal.vercel.app/**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.app/chat/projects/vsOI270JyyP](https://v0.app/chat/projects/vsOI270JyyP)**
+
 
 ## How It Works
 
