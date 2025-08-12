@@ -296,7 +296,7 @@ export default function Portfolio() {
               <Mail className="w-4 h-4 mr-2" />
               gilbertnshimyimana11@gmail.com
             </Button>
-            <Bu variant="outline" size="lg">
+            <Button variant="outline" size="lg">
               <Linkedin className="w-4 h-4 mr-2" />
              <a href="https://www.linkedin.com/in/gilbert-nshimyimana-132b68376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
             </Button>
