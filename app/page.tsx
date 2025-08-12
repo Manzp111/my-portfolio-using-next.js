@@ -135,7 +135,7 @@ export default function Portfolio() {
                   <Badge className="mr-2 mb-2">JavaScript</Badge>
                   <Badge className="mr-2 mb-2">Django</Badge>          
                   <Badge className="mr-2 mb-2">Node.js</Badge>
-                  <Badge className="mr-2 mb-2">React</Badge>
+               
                 </div>
               </CardContent>
             </Card>
@@ -151,10 +151,9 @@ export default function Portfolio() {
                 <div className="space-y-2">
                   <Badge className="mr-2 mb-2">PostgreSQL</Badge>
                   <Badge className="mr-2 mb-2">MongoDB</Badge>
-                  <Badge className="mr-2 mb-2">Redis</Badge>
                   <Badge className="mr-2 mb-2">Docker</Badge>
                   <Badge className="mr-2 mb-2">Git</Badge>
-                  <Badge className="mr-2 mb-2">AWS</Badge>
+
                 </div>
               </CardContent>
             </Card>
@@ -299,7 +298,7 @@ export default function Portfolio() {
             </Button>
             <Button variant="outline" size="lg">
               <Linkedin className="w-4 h-4 mr-2" />
-             https://www.linkedin.com/in/gilbert-nshimyimana-132b68376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+             <a href="https://www.linkedin.com/in/gilbert-nshimyimana-132b68376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
             </Button>
             <Button variant="outline" size="lg">
               <Github className="w-4 h-4 mr-2" />
